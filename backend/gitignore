@@ -1,0 +1,5 @@
+__pycache__/
+*.pyc
+.venv/
+# Uncomment if hosting model.pth externally via MODEL_URL instead of committing it:
+# models/model.pth
