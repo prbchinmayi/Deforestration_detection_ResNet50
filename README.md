@@ -3,6 +3,9 @@ An image classification and temporal analysis pipeline built with PyTorch. The p
 
 This project fine-tunes a pretrained ResNet-50 on 27,000 EuroSAT images via transfer learning across 10 land cover classes, using pairwise image comparison to detect deforestation by tracking forest-to-non-forest transitions.
 
+Backend: https://deforestration-detection-resnet50.onrender.com (trained ResNet50+FastAPI)
+Frontend: https://deforestration-detection-resnet50-1.onrender.com (Next.js dashboard)
+
 Dataset & Classes
 
 no of images:27000
